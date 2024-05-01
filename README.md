@@ -10,4 +10,4 @@ git clone https://github.com/VanessaBecerra95/desafio1-java.git
 
 ## Autor
 
-- [@octokatherine](https://www.github.com/VanessaBecerra95)
+- [@VanessaBecerra95](https://www.github.com/VanessaBecerra95)
